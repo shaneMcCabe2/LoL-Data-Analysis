@@ -1,16 +1,16 @@
 #### Data Source: https://oracleselixir.com/tools/downloads
 
-#### Summary
+## Summary
 The purpose of this repository is to explore League of Legends professional match data from 2021, analyze the data, then visualize and explain our conclusions.
 
-#### Notes
+## Notes
 
-##### LolDataExploration.py
+### LolDataExploration.py
 
 This file reads in the LoL data from 2021 matches and trims the dataset
 to fit my analytical needs, then outputs the new dataset to a csv titled 2021_LoL_Pro_Player_Data.csv.
 
-##### Line by line
+### Line by line
 For a condensed version please view the file LolDataExploration.py
 
 I started by outputting the first 5 rows and summary info of the dataframe to get an initial impression of the df.
